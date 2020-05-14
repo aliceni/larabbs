@@ -5,7 +5,7 @@
     </p>
 
     <p class="float-right">
-      <a href="mailto::aliceni0522@gmail.com">联系我们</a>
+      <a href="mailto::niming0522@gmail.com">联系我们</a>
     </p>
   </div>
 </footer>
